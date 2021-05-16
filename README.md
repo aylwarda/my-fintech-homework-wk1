@@ -3,18 +3,18 @@
 ## Overview and Origin
 
 ###  Frollo
-Frollo are at the forefront of Australia's move to adopting the Open Banking set of frameworks and enabling local FinTechs to do the same.  Frollo's ambitions aren't limitted to Australia as they partner with FinTechs and legacy players globally, empowering them to effectively adopt their respective Open Banking standards [[1][1]].
+Frollo are at the forefront of Australia's move to adopting the Open Banking set of frameworks and enabling local FinTechs to do the same.  Frollo's ambitions aren't limited to Australia as they partner with FinTechs and legacy players globally, empowering them to effectively adopt their respective Open Banking standards [[1][1]].
 
 Frollo is a strange little name, made up of two words, "Front" and "Follow" and hints at their purpose-driven approach, which is to "help people feel good about money" [[2][2]].
 
 ### When was the company incorporated?
 ### Who are the founders of the company?
 ### How did the idea for the company (or project) come about?
-Frollo's humble beginnings began in 2015 by its founder and current CEO, Gareth Gumbley, who similarly, grew up with humble surroundings which required having a side-hustle or two in earning his living and ensure his dreams and goals were kept on track.
+Frollo's humble beginnings began in 2015 by its founder and current CEO, Gareth Gumbley, who similarly, grew up with humble surroundings which required having a side-hustle or two in earning his living and ensuring his dreams and goals were kept on track.
 
-With Gareth's earlier career in Finance and Technology, and desire to help others, he started Frollo with the purpose of seeing Australians correct their relationship with money, specifically to help improve peoples lives through increased financial wellbeing and thereby reducing related stress.
+With Gareth's earlier career in Finance and Technology, and desire to help others, he started Frollo with the purpose of seeing Australians correct their relationship with money, specifically to help improve people's lives through increased financial wellbeing and thereby reducing related stress.
 
-The intial offerings from Frollo were a free mobile app for the man-on-the-street, thus kicking off their B2C product.  Furthering their mission, they started on their B2B offerings by building a platform which enabled other organisations do the same and further their mission of increasing people's financial wellbeing.  This platform became the precursor to the Open Banking platform it is today, enabling them to participate in the Australian Competition & Consumer Commission's (ACCC) Open Banking pilot to become the first Open Banking ADR (accredited data recipient).
+The initial offerings from Frollo were a free mobile app for the man-on-the-street, thus kicking off their B2C product.  Furthering their mission, they started on their B2B offerings by building a platform which enabled other organisations to do the same and further their mission of increasing people's financial wellbeing.  This platform became the precursor to the Open Banking platform it is today, enabling them to participate in the Australian Competition & Consumer Commission's (ACCC) Open Banking pilot to become the first Open Banking ADR (accredited data recipient).
 
 ### How is the company funded? How much funding have they received?
 How has Frollo been able to achieve their current position in Australia's Open Banking domain?  Well, Frollo's funding history is fairly simple; it does not span years and multiple rounds of funding, and has a similarly scarce amount of publicly available information on the amounts involved.  This is remarkable, given where they find themselves placed in their domain.
@@ -23,19 +23,19 @@ A short and sweet timeline of their funding history: -
 
 | Year  | Funding Description |
 | ----- |:------------------- |
-| 2015  | In true Frollo style, the company was initally funded by friends and family |
-| 2018  | Frollo recieved a grant by Metlife (Sept. 2018 [[3][3]]) to expand and improve their free B2C App |
-| 2019  | Frollo acquired Hip Money (Sept. 2019 [[4][4]]) a small Brisbane-based FinTech primarly for their AI enabled App which focused on consumer saving and debt elimination; remarkably and simmilarly aligned to their primary goal |
-| 2020  | Frollo was acquired by NextGen.Net (July 2020 [[5][5]]) for an undisclosed amount.  NextGen.Net acquired Frollo, seeking their Open Banking solutions which closely align to their own Mortage and Lending data ecosystem |
+| 2015  | In true Frollo style, the company was initially funded by friends and family |
+| 2018  | Frollo received a grant by Metlife (Sept. 2018 [[3][3]]) to expand and improve their free B2C App |
+| 2019  | Frollo acquired Hip Money (Sept. 2019 [[4][4]]) a small Brisbane-based FinTech primarily for their AI enabled App which focused on consumer saving and debt elimination; remarkably and similarly aligned to their primary goal |
+| 2020  | Frollo was acquired by NextGen.Net (July 2020 [[5][5]]) for an undisclosed amount.  NextGen.Net acquired Frollo, seeking their Open Banking solutions which closely align to their own Mortgage and Lending data ecosystem |
 
 
 ## Business Activities:
 
 ### What specific financial problem is the company or project trying to solve?
 
-Frollo seems to have been started at just the right time for the domain they find themselves in and the problems they look to solve.  Australia's Financial landscape, along with its banks and other institutions have not had the easiest of times recently.  The advent of the Banking Royal Commission, a.k.a The Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry, brought to light the ultimate power finanical insitutions have over their customers, smaller institutions reliant on them, and *some* judicial bodies [[6][6]].
+Frollo seems to have been started at just the right time for the domain they find themselves in and the problems they look to solve.  Australia's Financial landscape, along with its banks and other institutions have not had the easiest of times recently.  The advent of the Banking Royal Commission, a.k.a The Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry, brought to light the ultimate power financial institutions have over their customers, smaller institutions reliant on them, and *some* judicial bodies [[6][6]].
 
-One of the fortuitous events that took place at much the same time as Australia's Banking Royal Commission was ACCC's Productivity Commission Inquiry into Competition in the Australian Financial System [[7][7]] and its main recommendations were for the protection of banking customer data and ensuring the easy transition of a customer between financial institutions.  This had, to a degree, already had the wheels of motion turning in Europe and the United Kingdom with the UK in 2016 adopting parts of the Payment Services Directive (PSD2) on the back of their own enquiry into the competitevness of their financial industry and institutions.  The UK's Open Banking directives were a direct result of a ruling by the Competition and Markets Authority (CMA) to ***specifically allow licenced Fintech statups access to their transaction (and other) data*** [[8][8]].
+One of the fortuitous events that took place at much the same time as Australia's Banking Royal Commission was ACCC's Productivity Commission Inquiry into Competition in the Australian Financial System [[7][7]] and its main recommendations were for the protection of banking customer data and ensuring the easy transition of a customer between financial institutions.  This had, to a degree, already had the wheels of motion turning in Europe and the United Kingdom with the UK in 2016 adopting parts of the Payment Services Directive (PSD2) on the back of their own inquiry into the competitiveness of their financial industry and institutions.  The UK's Open Banking directives were a direct result of a ruling by the Competition and Markets Authority (CMA) to ***specifically allow licenced Fintech startups access to their transaction (and other) data*** [[8][8]].
 
 The rest is history.
 
@@ -49,13 +49,13 @@ Frollo, with both its B2C/B2B white-label financial wellbeing and Personal Finan
 
 ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-Of course, potential entrants could build their own platforms, but they would need to become registered participants of the Open Banking ecosystem, administer their own data-consent and insight systems to remain competetive, nevermind become a competitor in the space.  This openness, transparency and control is what consumers have come to expect and now demand.
+Of course, potential entrants could build their own platforms, but they would need to become registered participants of the Open Banking ecosystem, administer their own data-consent and insight systems to remain competitive, nevermind become a competitor in the space.  This openness, transparency and control is what consumers have come to expect and now demand.
 
 Frollo has been working with the ACCC from the start of its Open Banking trials and through that time has built up a number of assets that set it apart from any number of players in the Open Banking domain globally, nevermind Australia, where it is the leader.
 
 ### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-Frollo has built up its open banking solutions ecosystem, encompasing an AI engine, any number of APIs, partner integrations and powerful home grown components.  They are inherently cloud native, using AWS (Amazon Web Services) as their primary Cloud Vendor and making use of AWS's API Gateway, their Shield, SageMaker and WAF (Web Application Firewall) [[9][9]].  These form the SaaS platform and enable access and use of the gold mine that is consumer transactional data.  The consumer app, as previously described, as important as it is in the way in which the information is presented to the user, is but meaningless and empty pixels without the power the platform provides it.
+Frollo has built up its open banking solutions ecosystem, encompassing an AI engine, any number of APIs, partner integrations and powerful homegrown components.  They are inherently cloud native, using AWS (Amazon Web Services) as their primary Cloud Vendor and making use of AWS's API Gateway, their Shield, SageMaker and WAF (Web Application Firewall) [[9][9]].  These form the SaaS platform and enable access and use of the gold mine that is consumer transactional data.  The consumer app, as previously described, as important as it is in the way in which the information is presented to the user, is but meaningless and empty pixels without the power the platform provides it.
 
 Frollo's Open Banking solutions [[10][10]] and use of key technologies: -
 
@@ -80,7 +80,7 @@ The key differentiators of Frollo's solutions is data enrichment, making extensi
 
 As a fairly young FinTech, Frollo currently operates within the Open Banking landscape.  The landscape is driven by the advent of Open Banking directives which have turned the tables on the ownership of consumer data in favour of consumers, enabling its primary tenet - Consumer Data Rights; the right that a consumer has over their own data and their choice as to who can access their data, and how it used.
 
-Open Banking and its implication for data ownwership does not stop at financial data for financial institutions, but is extending to other industries, including Telcos and Energy.  A wealth of data, slowly opening up to those who are ready for it.
+Open Banking and its implication for data ownership does not stop at financial data for financial institutions, but is extending to other industries, including Telcos and Energy.  A wealth of data, slowly opening up to those who are ready for it.
 
 ![Oops, image is not rendering.](./images/open-banking-cdr-timeline.png "Open Banking CDR Timeline")
 
@@ -89,7 +89,7 @@ Open Banking and its implication for data ownwership does not stop at financial 
 
 ### What has been the business impact of this company so far?
 
-Frollo primarily sees itself as an enabler of disruption and is willing to partner with those startups or even encumbents that are willing to become more nimble and focus on the future of banking, i.e. its open and consumer-focussed future.  With its early adoption of Open Banking standards, open and consumer-focused approach, their platform has grown to being dominant with the processing of 95% of all Open Banking related activity!
+Frollo primarily sees itself as an enabler of disruption and is willing to partner with those startups or even incumbents that are willing to become more nimble and focus on the future of banking, i.e. its open and consumer-focussed future.  With its early adoption of Open Banking standards, open and consumer-focused approach, their platform has grown to being dominant with the processing of 95% of all Open Banking related activity!
 
 Their approach to Open Banking is paying off with a number of high-profile announcements in recent months [[11][11]]: -
 - May 2021
@@ -105,9 +105,9 @@ The effects of what Open Banking has been able to accomplish is evident in the p
 
 ### How is your company performing relative to competitors in the same domain?
 
-At this point, it would not be innaccurate to make the determination, that Frollo is the leader of this domain in Australia, and while it remains an enabler of other disruptors, startups and forward thinking FinTechs, it will remain on top as it has already accomplished the creation of a robust platform already being used by a number customers with a bright future.
+At this point, it would not be inaccurate to make the determination, that Frollo is the leader of this domain in Australia, and while it remains an enabler of other disruptors, startups and forward thinking FinTechs, it will remain on top as it has already accomplished the creation of a robust platform already being used by a number customers with a bright future.
 
-Larger (can be read as older) financial organisations are doing a number of things within the Open Banking landscape, but seem more interested in grabbing a slice of the product pie, e.g. loans, cards, insurance, etc. by fleshing out platforms within their own legacy ecosystems, and not focussing on the biggest benefit of Open Banking, namely the avalanche of data that it opens up [[13][13]].  One could argue that these encumbents already have all the data they need internally and the rush to build out BaaS platforms and rent out their licences is something they could focus on, but they forget, the data isn't theirs; ignore the owners of the data and they will leave and take their data with them.
+Larger (can be read as older) financial organisations are doing a number of things within the Open Banking landscape, but seem more interested in grabbing a slice of the product pie, e.g. loans, cards, insurance, etc. by fleshing out platforms within their own legacy ecosystems, and not focussing on the biggest benefit of Open Banking, namely the avalanche of data that it opens up [[13][13]].  One could argue that these incumbents already have all the data they need internally and the rush to build out BaaS platforms and rent out their licences is something they could focus on, but they forget, the data isn't theirs; ignore the owners of the data and they will leave and take their data with them.
 
 
 
@@ -127,7 +127,7 @@ It is difficult to know what strategies Frollo has up its sleeve, however assumi
 - Frollo should not wait for the Open Banking timeline to roll out, but begin preparing for what may not be obvious: -
   - With consumer consent (their own Frollo consumer app users), start to seek out financial institutions, not part of the first tranche of Open Banking participants (legacy big 5), i.e. smaller or newer entrants into the Fintech space, new neo banks, payments or wealth management startups and incentivise them to use their platform.  This will expand the disruption that their platform enables, but similarly gain newer forms of data in potentially a younger demographic and unlock differing behaviors from encumbent/ordinary CDR data.
   - Start to build out APIs in anticipation of the onboarding of Telco and Energy into the Open Banking / Open Data landscape.  Capitalising on these new sources of CDR would open up the potential for Frollo to expand their influence within Big Data and AI.  Not to mention a whole new source of disruption.
-- Frollo's platform, as powerful and capable as it is, is currently one which is centralised.  I'd motivate for them to start to think about decentralising.  This is both an emerging macro trend, but more importantly, is about the rights of the consumers whose data their platform exists to serve.  They could make use of differing big data and cloud technologies to shard their platform's capabilities.  Thinking about using Blockchain protocols (Etherium is continually improving, with the introduction of sharding emminent) to enable decentralisation.  As Frollo grows, and takes on more data, the temptation will be to keep growing and scale the current platform.
+- Frollo's platform, as powerful and capable as it is, is currently one which is centralised.  I'd motivate for them to start to think about decentralising.  This is both an emerging macro trend, but more importantly, is about the rights of the consumers whose data their platform exists to serve.  They could make use of differing big data and cloud technologies to shard their platform's capabilities.  Thinking about using Blockchain protocols (Etherium is continually improving, with the introduction of sharding imminent) to enable decentralisation.  As Frollo grows, and takes on more data, the temptation will be to keep growing and scale the current platform.
 - Frollos is already expanding into payments (as is evident with their latest partnership with EML).  They could expand upon their soon-to-be new foray into the blockchain's capabilities and capitalise on the openness that it provides, in line with what consumers will continue to want.
 
 
