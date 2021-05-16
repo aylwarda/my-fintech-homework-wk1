@@ -1,5 +1,7 @@
 # Frollo: an exploratory case study
 
+![Oops, image not available](./images/Frollo-Logo-New-Brand.png "Frollo")
+
 ## Overview and Origin
 
 ###  Who is Frollo?
@@ -68,7 +70,7 @@ As a fairly young FinTech, Frollo currently operates within the Open Banking lan
 
 Open Banking and its implication for data ownership does not stop at financial data for financial institutions, but is extending to other industries, including Telcos and Energy.  A wealth of data, slowly opening up to those who are ready for it.
 
-![Oops, image is not rendering.](./images/open-banking-cdr-timeline.png "Open Banking CDR Timeline")
+![Oops, image not available.](./images/open-banking-cdr-timeline.png "Open Banking CDR Timeline")
 
 ### Frollo's Impact
 
